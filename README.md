@@ -1,6 +1,9 @@
 This is my personal website. I used One Page Wonder as my inspiration and code reference. Please find their copyright and license here. 
 
 
+I also used Bootstrap theme from Bootswatch.com
+
+
 
 
 ## Copyright and License 
